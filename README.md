@@ -1,6 +1,6 @@
 # Ejercicio: Tarjeta de crédito
 
-#### Crear un control de usuario para Validar el número de tarjetas de crédito con algoritmo Luhn.
+### Crear un control de usuario para Validar el número de tarjetas de crédito con algoritmo Luhn.
 
 Con  la  moda  de  Internet  y  las  compras  por  la  Web,    se  está  poniendo muy  demoda    el  asunto  de  la  seguridad.  Normalmente  sólo  se  mira  la  seguridad  del  que  pone  la  tarjeta  para que nadie vea sus números y no la puedausar. Pero  a  los  programadores  los  que nos  suelen  pedir aparte  de esa  seguridad  serían  que  se compruebe la validez delos números de las tarjetas que se introducen antes de hacer un post a la respectiva institución bancaria.
 
