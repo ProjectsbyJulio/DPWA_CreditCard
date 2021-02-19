@@ -51,7 +51,7 @@ namespace dpwa_credit_card_exercise
             string actualNum = this.txtTarjeta.Text;
             string nuevoNum = "";
             string valor;
-            if (actualNum.Length < 16)
+            if (actualNum.Length < 14)
             {
                 lblResponse.Text = "<p class=text-danger>Ingresa un número de tarjeta de crédito</p>";
                 dangerBorder();
