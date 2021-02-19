@@ -6,9 +6,7 @@ Con  la  moda  de  Internet  y  las  compras  por  la  Web,    se  está  ponien
 
 Inputs for testing:
 
-`345717101599077` = true
-
-`373762486065919` = true
+`345717101599077` = false
 
 `4929276893833034` = true
 
@@ -16,20 +14,12 @@ Inputs for testing:
 
 `4024007132909119` = true
 
-`4929938514856039` = true
-
 `6011815310662817` = true
 
 `7011815310662817` = false
-
-`6011850059499402` = true
 
 `6011332888051910` = true
 
 `5343429607691991` = true
 
 `2343429607691991` = false
-
-`5131161683347869` = true
-
-`5343335057228574` = true
